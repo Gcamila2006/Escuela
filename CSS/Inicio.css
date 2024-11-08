@@ -12,7 +12,7 @@ body {
     --Color-Secundrio: #C7C47D;
 }
 
-.bg-primary {
+.primary{
     background: var(--Color-Primario) !important;
 }
 
