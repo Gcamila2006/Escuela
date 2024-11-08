@@ -13,7 +13,7 @@ body {
 }
 
 .primary{
-    background: var(--Color-Primario) !important;
+    background: #F46767;
 }
 
 .btn-primary {
@@ -21,8 +21,8 @@ body {
     border: var(--Color-Primario) !important;
 }
 
-.bg-secondary {
-    background: var(--Color-Secundrio) !important;
+.secondary {
+    background: #C7C47D;
 }
 
 .img-1 {
